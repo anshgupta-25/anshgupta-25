@@ -15,7 +15,7 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3564313336636239363534386230303031346234656138332f313539363732323636313038312d5259555637343555424e4b4a56355346494541322f6b65313768363471346f5f323031393130323430353335353430322e6769663f666f726d61743d31303030772e676966">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### 🧑‍💻 About Me
 
@@ -27,10 +27,6 @@
 
 🧠 500+ DSA problems solved on **ByteXL**
 
-🏏 Former **District-Level Cricketer (U15)**
-
-📈 **Stock Market Enthusiast** — data-driven investing
-
 <br clear="both"/>
 
 ---
@@ -38,7 +34,9 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,flask,fastapi,nodejs,docker,kubernetes,git,selenium,azure,gcp&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css,react,flask,fastapi,nodejs,express,docker,kubernetes,git,selenium&perline=8" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=azure,gcp,aws,mongodb,mysql,postgres,linux,bash,vscode,github,postman,figma,tensorflow,pytorch,langchain,nginx&perline=8" />
 </p>
 
 <details>
@@ -47,11 +45,13 @@
 
 | Category | Technologies |
 |---|---|
-| **Languages** | Python, C++, Java, SQL, JavaScript, HTML/CSS |
-| **Frameworks** | Flask, FastAPI, React, Node.js |
+| **Languages** | Python, C++, Java, SQL, JavaScript, TypeScript, HTML/CSS |
+| **Frameworks** | Flask, FastAPI, React, Node.js, Express.js |
 | **Automation/LLMs** | Playwright, LangChain, Selenium, Puppeteer, Ollama |
-| **Cloud/DevOps** | Microsoft Azure, Google Cloud, Oracle Cloud, Docker, Kubernetes, Git, CI/CD |
-| **Libraries** | NumPy, pandas, Matplotlib |
+| **Cloud/DevOps** | Microsoft Azure, Google Cloud, AWS, Oracle Cloud, Docker, Kubernetes, Git, CI/CD, Nginx |
+| **Databases** | MongoDB, MySQL, PostgreSQL |
+| **AI/ML** | TensorFlow, PyTorch, NumPy, pandas, Matplotlib |
+| **Tools** | VS Code, Postman, GitHub, Linux, Bash, Figma |
 
 </details>
 
@@ -141,10 +141,13 @@
 ## 🏆 Key Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anshgupta-25&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=anshgupta-25&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+  </a>
 </p>
 
 - 🥇 **Top 7 Finalists** (out of 1000+) — HackXlerate 2025 Hackathon
+- 🥈 **2nd Position in DATAFORGE** — E-Summit'26, IIT Roorkee
 - 🎮 **Google Cloud Arcade Legend Tier** — 400+ hands-on labs, 50+ verified skill badges
 - 💻 **500+ DSA Problems** solved on ByteXL
 
@@ -153,20 +156,28 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anshgupta-25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anshgupta-25&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+  <a href="https://github.com/anshgupta-25">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anshgupta-25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/anshgupta-25">
+    <img width="48%" src="https://streak-stats.demolab.com/?user=anshgupta-25&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshgupta-25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" />
+  <a href="https://github.com/anshgupta-25">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshgupta-25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages" />
+  </a>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anshgupta-25/anshgupta-25/output/github-snake-dark.svg" alt="Snake animation" />
+  <a href="https://github.com/anshgupta-25">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshgupta-25&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" alt="Contribution Graph" />
+  </a>
 </p>
 
 ---
