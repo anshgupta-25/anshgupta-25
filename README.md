@@ -7,14 +7,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Ansh+Gupta;%F0%9F%A4%96+AI+%26+ML+Engineer+%7C+Gen+AI+Builder;%E2%98%81%EF%B8%8F+Cloud+%26+DevOps+Enthusiast;%F0%9F%8F%86+Hackathon+Winner+%7C+IIT+Roorkee" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=180&lines=%F0%9F%91%8B+Hey%2C+I'm+Ansh+Gupta;%F0%9F%A4%96+AI+%26+ML+Engineer+%7C+Gen+AI+Builder;%E2%98%81%EF%B8%8F+Cloud+%26+DevOps+Enthusiast;%F0%9F%8F%86+Hackathon+Winner+%7C+IIT+Roorkee" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ansh-gupta-2a4127330/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="https://github.com/anshgupta-25"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
-  <a href="mailto:gupta.ansh2506@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-  <a href="https://www.hackerrank.com/profile/gupta_ansh2506"><img src="https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
+  <a href="mailto:gupta.ansh2506@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -200,7 +199,7 @@ currently: Building AI agents that automate the web
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td colspan="2">
 
 <h3 align="center">🎙️ Speech-to-Text Engine</h3>
 
@@ -212,12 +211,12 @@ currently: Building AI agents that automate the web
 > Real-time transcription tool with multiple speech engines & Tkinter GUI
 
 | Metric | Result |
-| <h3 align="center">🎙️ Speech-to-Text Engine</h3> | <!-- Placeholder --> |
-| :---: | :---: |
-| <img src="https://img.shields.io/badge/Status-Completed-00EA64?style=flat-square" /> <img src="https://img.shields.io/badge/Jul–Aug-2025-00d2ff?style=flat-square" /> | |
-| Real-time transcription tool with multiple speech engines & GUI | |
-| <b>Metrics:</b> 85% Accuracy <br> +40% Reliability | |
-| `Python` `Google Speech API` `CMU Sphinx` `Tkinter` | |
+|--------|--------|
+| 🎯 Accuracy | **85%** |
+| 📈 Reliability | **+40%** |
+| 🖥️ Interface | **GUI** |
+
+`Python` `Google Speech API` `CMU Sphinx` `Tkinter`
 
 </td>
 </tr>
