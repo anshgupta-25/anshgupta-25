@@ -267,24 +267,28 @@ currently: Working on CodersZ LMS & Open-Source AI
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=anshgupta-25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF" alt="GitHub Stats" />
-  <img height="195" src="https://streak-stats.demolab.com/?user=anshgupta-25&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=00d2ff&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <table align="center" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" width="50%">
+        <img height="195" width="450" src="https://github-readme-stats.vercel.app/api?username=anshgupta-25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF" alt="GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img height="195" width="450" src="https://streak-stats.demolab.com/?user=anshgupta-25&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=00d2ff&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 
-<br/>
+  <br/>
 
-<p align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshgupta-25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages" />
-</p>
+  <img height="195" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshgupta-25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages" />
 
-<br/>
+  <br/><br/>
 
-<p align="center">
   <a href="https://github.com/anshgupta-25">
-    <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=anshgupta-25&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=00d2ff&point=FFFFFF&area=true&area_color=6C63FF" alt="Contribution Graph" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anshgupta-25&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=00d2ff&point=FFFFFF&area=true&area_color=6C63FF" alt="Contribution Graph" />
   </a>
-</p>
+</div>
 
 <!-- ─────────────────────── GOALS ─────────────────────── -->
 
