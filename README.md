@@ -32,19 +32,22 @@
 
 ```yaml
 name: Ansh Gupta
-role: AI/ML Engineer & Cloud Developer
+role: SDE Intern @ Zent | AI/ML Engineer & Cloud Developer
 education: B.Tech CSE (Gen AI) @ LPU (2024-2028)
 location: India 🇮🇳
+experience:
+  - Software Developer Intern @ Zent Corporation
+  - Campus Ambassador @ IIT Roorkee
 focus:
+  - Full-Stack Engineering & System Design
   - Generative AI & LLM Applications
   - Cloud Architecture & DevOps
-  - Full-Stack Automation
 achievements:
   - 🏆 HackXlerate 2025 — Top 7 / 1000+
   - 🥈 DATAFORGE Winner — E-Summit'26, IIT Roorkee
   - ☁️ Microsoft + Oracle + Google Cloud Certified
   - 🧠 500+ DSA Problems Solved
-currently: Building AI agents that automate the web
+currently: Working on CodersZ LMS & Open-Source AI 
 ```
 
 <br clear="both"/>
@@ -53,13 +56,61 @@ currently: Building AI agents that automate the web
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## Technical Skills
----
-- **Languages:** Python, C++, Java, SQL, JavaScript, HTML/CSS
-- **Frameworks/Tools:** Flask, FastAPI, React, Node.js, Docker, Kubernetes
-- **Automation/LLMs:** Playwright, LangChain, Selenium, Puppeteer, Ollama
-- **Cloud/DevOps:** Microsoft Azure, Google Cloud, Oracle Cloud, Git, CI/CD
-- **Libraries:** NumPy, pandas, Matplotlib
+<div align="center">
+  <h2>🛠️ Technical Skills</h2>
+</div>
+
+<table align="center" width="90%">
+  <tr>
+    <td align="right" width="25%"><b>Languages</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frameworks & Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Automation & LLMs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Cloud & DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Data / Libraries</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 <!-- ─────────────────────── PROJECTS ─────────────────────── -->
 
