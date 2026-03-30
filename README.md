@@ -53,101 +53,13 @@ currently: Building AI agents that automate the web
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🛠️ Tech Arsenal
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-**🔤 Languages**
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-
-**⚙️ Frameworks**
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-
-**🤖 AI / Automation**
-
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-
-**☁️ Cloud / DevOps**
-
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-
-**🗄️ Databases**
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-
-**🧰 Tools**
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</td>
-<td align="center" width="25%">
-
-**📚 Libraries**
-
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
-
-</td>
-<td align="center" width="25%">
-
-**🌐 Web**
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,flask,fastapi,nodejs,docker,kubernetes,azure,gcp,aws,mongodb,postgres,tensorflow,pytorch,git,linux&perline=10" />
-</p>
+## Technical Skills
+---
+- **Languages:** Python, C++, Java, SQL, JavaScript, HTML/CSS
+- **Frameworks/Tools:** Flask, FastAPI, React, Node.js, Docker, Kubernetes
+- **Automation/LLMs:** Playwright, LangChain, Selenium, Puppeteer, Ollama
+- **Cloud/DevOps:** Microsoft Azure, Google Cloud, Oracle Cloud, Git, CI/CD
+- **Libraries:** NumPy, pandas, Matplotlib
 
 <!-- ─────────────────────── PROJECTS ─────────────────────── -->
 
@@ -208,15 +120,20 @@ currently: Building AI agents that automate the web
   <img src="https://img.shields.io/badge/Jul–Aug-2025-00d2ff?style=flat-square" />
 </p>
 
-> Real-time transcription tool with multiple speech engines & Tkinter GUI
+<p align="center">
+  <i>Real-time transcription tool with multiple speech engines & Tkinter GUI</i>
+</p>
 
-| Metric | Result |
-|--------|--------|
-| 🎯 Accuracy | **85%** |
-| 📈 Reliability | **+40%** |
-| 🖥️ Interface | **GUI** |
+<table align="center">
+<tr><th align="center">Metric</th><th align="center">Result</th></tr>
+<tr><td align="center">🎯 Accuracy</td><td align="center"><b>85%</b></td></tr>
+<tr><td align="center">📈 Reliability</td><td align="center"><b>+40%</b></td></tr>
+<tr><td align="center">🖥️ Interface</td><td align="center"><b>GUI</b></td></tr>
+</table>
 
-`Python` `Google Speech API` `CMU Sphinx` `Tkinter`
+<p align="center">
+  <code>Python</code> <code>Google Speech API</code> <code>CMU Sphinx</code> <code>Tkinter</code>
+</p>
 
 </td>
 </tr>
@@ -325,10 +242,10 @@ currently: Building AI agents that automate the web
 ## 🎯 What I'm Up To
 
 ```text
-🔭 Currently Building    →  AI Agents that automate web research
+🔭 Currently Building    →  SDE Intern @ Zent, working on CodersZ LMS
 🌱 Currently Learning    →  Advanced LLM orchestration & MLOps
 🤝 Open to Collaborate   →  AI/ML, Cloud, and DevOps projects
-🎯 2025 Goal             →  Contribute to major open-source AI projects
+🎯 2026 Goal             →  Contribute to major open-source AI projects
 ⚡ Fun Fact              →  I debug code faster than I debug my life 😄
 ```
 
