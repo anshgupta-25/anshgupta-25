@@ -266,7 +266,7 @@ currently: Working on CodersZ LMS & Open-Source AI
 <div align="center">
   <img height="195" width="410" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anshgupta-25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="195" width="410" src="https://streak-stats.demolab.com/?user=anshgupta-25&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=00d2ff&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
+  <img height="195" width="410" src="https://streak-stats.demolab.com/?user=anshgupta-25&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=00d2ff&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=555555&v=2" alt="GitHub Streak" />
 
   <br/><br/>
 
